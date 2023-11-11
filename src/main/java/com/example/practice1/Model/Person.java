@@ -1,4 +1,4 @@
-package Model;
+package com.example.practice1.Model;
 
 import lombok.AllArgsConstructor;
 import lombok.Data;
@@ -7,10 +7,7 @@ import lombok.RequiredArgsConstructor;
 @Data
 @RequiredArgsConstructor
 @AllArgsConstructor
-public class Product {
-
-
+public class Person {
     private String name;
-    private int price;
-
+    private int age;
 }

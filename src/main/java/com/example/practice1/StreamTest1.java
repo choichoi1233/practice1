@@ -1,6 +1,6 @@
 package com.example.practice1;
 
-import Model.Product;
+import com.example.practice1.Model.Product;
 
 import java.util.Arrays;
 import java.util.List;

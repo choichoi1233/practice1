@@ -1,10 +1,9 @@
 package com.example.practice1;
 
-import Model.Person;
+import com.example.practice1.Model.Person;
 
 import java.util.*;
 import java.util.stream.Collectors;
-import java.util.stream.Stream;
 
 public class StreamTest2 {
     public static void main(String[] arg) {
